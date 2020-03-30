@@ -1,0 +1,5 @@
+csv,big5,encoding
+https://stackoverflow.com/questions/36462852/how-to-read-utf-8-files-with-pandas
+
+pandas,cvs
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html
